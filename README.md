@@ -1,6 +1,6 @@
 # NAME : S.NAVINKUMAR
 # REG.NO : 24901075
-# EXPERIMENT-7:JKFLIPFLOP-USING-IF-ELSE
+# EXPERIMENT-5: J K FLIP FLOP
 
 # AIM: 
 
@@ -95,4 +95,4 @@ endmodule
 
 # RESULT:
 
-Thus the given JK flipflop is implemented using verilog and validating their functionality using their functional tables.
+Thus the JK flipflop is implemented using verilog and validated using their functional tables.
