@@ -95,4 +95,4 @@ endmodule
 
 # RESULT:
 
-Thus the JK flipflop is implemented using verilog and validated using their functional tables.
+Thus the JK flipflop is implemented using verilog and validated using their waveform.
